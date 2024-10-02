@@ -13,4 +13,6 @@ This project demonstrates a simple and clean loading animation using HTML and CS
 - Easily customizable colors and sizes
 
 ### Demo
-https://github.com/user-attachments/assets/82b0e0aa-dada-4305-b8fc-857e7f2ab5be
+https://github.com/user-attachments/assets/5dbb32eb-4324-480e-a362-7caae484ede1
+
+
