@@ -1,4 +1,4 @@
-# HTML Loading Animation Projects
+# HTML Animation Projects
 
 This repository contains various HTML projects showcasing different web design techniques and animations.
 
